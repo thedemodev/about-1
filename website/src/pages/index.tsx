@@ -17,7 +17,7 @@ import { ContactPresalesSupportAction } from '../css/components/actions/ContactP
 import { GetSourcegraphNowActions } from '../css/components/actions/GetSourcegraphNowActions'
 import { RequestDemoAction } from '../css/components/actions/RequestDemoAction'
 import { ViewDeveloperDocumentationAction } from '../css/components/actions/ViewDeveloperDocumentationAction'
-import Helmet from 'react-helmet'
+import {Helmet} from 'react-helmet'
 
 /**
  * This list is lovingly hand-crafted for the home page so the title,

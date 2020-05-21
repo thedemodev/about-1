@@ -1,6 +1,6 @@
 import { Link } from 'gatsby'
 import * as React from 'react'
-import Helmet from 'react-helmet'
+import {Helmet} from 'react-helmet'
 import { ContentSection } from '../components/content/ContentSection'
 import Layout from '../components/Layout'
 import { PricingPlan, Features } from '../components/pricing/PricingPlan'
